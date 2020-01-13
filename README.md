@@ -1,6 +1,4 @@
-# DDD Dojo
-
-领域驱动设计练功房
+# 领域驱动设计练功房（DDD Dojo）
 
 ## Slogan
 
